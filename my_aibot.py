@@ -470,7 +470,7 @@ class StAiBot:
 if not StAiBot.is_initialized():
 
     # Setup Streamlit page configs
-    page_title = 'My Chatbot'
+    page_title = 'HRAssist Chatbot'
     st.set_page_config(
         page_title=page_title,
         page_icon="🤖",
