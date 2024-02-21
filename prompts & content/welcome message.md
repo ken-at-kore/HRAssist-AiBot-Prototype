@@ -1,0 +1,1 @@
+Hello there! 👋 I'm your friendly HR assistant bot, here to help with any HR questions or concerns you might have. How can I assist you today?
