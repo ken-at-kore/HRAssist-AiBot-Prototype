@@ -12,7 +12,6 @@ import openai
 import time
 
 
-
 class AiBot:
     """
     AiBot applies the Facade design pattern to encapulate the OpenAI GPT calls.
@@ -464,6 +463,8 @@ class StAiBot:
 
 # ------------------------------------------------------------------ #
 # --------------------------- RUN AIBOT ---------------------------- #
+
+# HRAssist AiBot
 
 # Initialize the bot (if not initialized)
 if not StAiBot.is_initialized():
